@@ -5,6 +5,18 @@ This repository is a personal collection of websites covering **Technology, Deve
 
 ---
 
+## ⭐ Featured Websites
+
+|              Website                  |                Description                     |    Category     |
+| ------------------------------------- | ---------------------------------------------- | --------------- |
+| [GitHub](https://github.com/)         | Platform for hosting and collaborating on code | Development     |
+| [Roadmap.sh](https://roadmap.sh/)     | Developer roadmaps and learning paths          | Learning        |
+| [Excalidraw](https://excalidraw.com/) | Simple virtual whiteboard for diagrams         | Design          |
+| [Regex101](https://regex101.com/)     | Online regular expression tester               | Developer Tools |
+| [Can I Use](https://caniuse.com/)     | Browser compatibility information              | Web Development |
+| [DevDocs](https://devdocs.io/)        | Fast, searchable developer documentation       | Documentation   |
+
+---
 ## 🚀 Categories
 
 ### 💻 Development & Programming
@@ -61,19 +73,6 @@ This repository is a personal collection of websites covering **Technology, Deve
 * Interesting projects
 * Internet discoveries
 * Websites worth sharing
-
----
-
-## ⭐ Featured Websites
-
-|              Website                  |                Description                     |    Category     |
-| ------------------------------------- | ---------------------------------------------- | --------------- |
-| [GitHub](https://github.com/)         | Platform for hosting and collaborating on code | Development     |
-| [Roadmap.sh](https://roadmap.sh/)     | Developer roadmaps and learning paths          | Learning        |
-| [Excalidraw](https://excalidraw.com/) | Simple virtual whiteboard for diagrams         | Design          |
-| [Regex101](https://regex101.com/)     | Online regular expression tester               | Developer Tools |
-| [Can I Use](https://caniuse.com/)     | Browser compatibility information              | Web Development |
-| [DevDocs](https://devdocs.io/)        | Fast, searchable developer documentation       | Documentation   |
 
 ---
 
@@ -136,7 +135,7 @@ New websites and resources will be added regularly.
 
 ## 👨‍💻 Author
 
-**Syed Abdul Qayum**
+**Sayed Abdul Qayum**
 
 * GitHub: [@Engg-Sayed-Abdul-Qayum](https://github.com/Engg-Sayed-Abdul-Qayum)
 
