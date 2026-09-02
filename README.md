@@ -9,12 +9,13 @@ This repository is a personal collection of websites covering **Technology, Deve
 
 |              Website                  |                Description                     |    Category     |
 | ------------------------------------- | ---------------------------------------------- | --------------- |
-| [GitHub](https://github.com/)         | Platform for hosting and collaborating on code | Development     |
+| [GitHub](https://github.com/Engg-Sayed-Abdul-Qayum)         | Platform for hosting and collaborating on code | Development     |
 | [Roadmap.sh](https://roadmap.sh/)     | Developer roadmaps and learning paths          | Learning        |
 | [Excalidraw](https://excalidraw.com/) | Simple virtual whiteboard for diagrams         | Design          |
 | [Regex101](https://regex101.com/)     | Online regular expression tester               | Developer Tools |
 | [Can I Use](https://caniuse.com/)     | Browser compatibility information              | Web Development |
 | [DevDocs](https://devdocs.io/)        | Fast, searchable developer documentation       | Documentation   |
+| [DevOps Portfolio](https://github.com/Engg-Sayed-Abdul-Qayum/Website-s/tree/main/devops-portfolio)        | Fast, searchable developer documentation       | Documentation   |
 
 ---
 ## 🚀 Categories
