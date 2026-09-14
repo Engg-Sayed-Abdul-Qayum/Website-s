@@ -139,7 +139,8 @@ New websites and resources will be added regularly.
 
 **Mr. Engg. Sayed Abdul Qayum**
 
-* GitHub: [@Engg-Sayed-Abdul-Qayum](https://github.com/Engg-Sayed-Abdul-Qayum)
+* GitHub : [@Engg-Sayed-Abdul-Qayum](https://github.com/Engg-Sayed-Abdul-Qayum)
+* Linkedin :[@Sayed-Abdul-Qayum](www.linkedin.com/in/sayed-abdul-qayum)
 
 ---
 
