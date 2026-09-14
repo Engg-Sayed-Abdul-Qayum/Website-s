@@ -15,7 +15,8 @@ This repository is a personal collection of websites covering **Technology, Deve
 | [Regex101](https://regex101.com/)     | Online regular expression tester               | Developer Tools |
 | [Can I Use](https://caniuse.com/)     | Browser compatibility information              | Web Development |
 | [DevDocs](https://devdocs.io/)        | Fast, searchable developer documentation       | Documentation   |
-| [DevOps Portfolio](https://github.com/Engg-Sayed-Abdul-Qayum/Website-s/tree/main/devops-portfolio)        | Fast, searchable developer documentation       | Documentation   |
+| [DevOps Portfolio](https://github.com/Engg-Sayed-Abdul-Qayum/Website-s/tree/main/devops-portfolio)        | Searchable developer documentation       | Portfolio   |
+| [Game_Zone](https://github.com/Engg-Sayed-Abdul-Qayum/Website-s/tree/main/Game_Zone)        | Created a Gaming Web Page       | Web Gameing   |
 
 ---
 ## 🚀 Categories
