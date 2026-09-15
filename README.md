@@ -137,7 +137,7 @@ New websites and resources will be added regularly.
 
 ## 👨‍💻 Author
 
-**Mr. Engg. Sayed Abdul Qayum**
+**Engg. Sayed Abdul Qayum**
 
 * GitHub : [@Engg-Sayed-Abdul-Qayum](https://github.com/Engg-Sayed-Abdul-Qayum)
 * Linkedin : [@Sayed-Abdul-Qayum](https://www.linkedin.com/in/sayed-abdul-qayum/)
