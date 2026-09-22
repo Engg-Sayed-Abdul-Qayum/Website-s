@@ -136,7 +136,7 @@ New websites and resources will be added regularly.
 ---
 
 ## 👨‍💻 Author 
-***.S.A.Q.
+### .S.A.Q.
 **Engg. Sayed Abdul Qayum**
 
 * GitHub : [@Engg-Sayed-Abdul-Qayum](https://github.com/Engg-Sayed-Abdul-Qayum)
